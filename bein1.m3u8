@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/f98bfe5f-1dd4-4c55-b6d2-9e37b50989bc/source/index.m3u8
+
 
